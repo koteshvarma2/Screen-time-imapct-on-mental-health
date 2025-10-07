@@ -1,5 +1,5 @@
 # Screen-time-impact-on-mental-health
-Digital Wellness Dashboard for monitoring and analyzing screen time, detecting unhealthy digital habits, and promoting balanced routines.
+Digital Wellness Dashboard for monitoring and analyzing screen.
 
 The modern world, digital devices have become an integral part of everyday life, offering unparalleled 
 convenience, connectivity, and productivity. However, the widespread use of smartphones, laptops, and tablets has 
