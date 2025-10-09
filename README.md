@@ -1,4 +1,4 @@
-# Screen-time-impact-on-mental-health
+**# Screen-time-impact-on-mental-health**
 Digital Wellness Dashboard for monitoring and analyzing screen.
 
 The modern world, digital devices have become an integral part of everyday life, offering unparalleled 
@@ -25,3 +25,13 @@ patterns. The dashboard’s clean, interactive interface visualizes screen time 
 advice to improve sleep quality, enhance concentration, and maintain balanced digital habits. By bridging data 
 analysis with user-centric recommendations, this tool aims to support healthier digital lifestyles and boost both 
 personal well-being and productivity in an increasingly digital world.
+
+**#DataSet Information.**
+The digital_habits_vs_mental_health.csv dataset consists of 100,000 rows and 6 columns, capturing insights into how digital habits relate to mental health outcomes. 
+Each record represents an individual’s reported data on screen time, social media usage, and mental well-being indicators.
+
+Total Entries: 100,000.
+Features (Columns): 6.
+Missing Values: None (fully clean).
+Data Types: Float and Integer.
+Primary Focus: Analyze the influence of digital behavior (screen time, platform use, TikTok usage) on mental health factors like stress and mood.
