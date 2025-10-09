@@ -1,4 +1,5 @@
 **# Screen-time-impact-on-mental-health**
+
 Digital Wellness Dashboard for monitoring and analyzing screen.
 
 The modern world, digital devices have become an integral part of everyday life, offering unparalleled 
@@ -27,6 +28,7 @@ analysis with user-centric recommendations, this tool aims to support healthier 
 personal well-being and productivity in an increasingly digital world.
 
 **#DataSet Information.**
+
 The digital_habits_vs_mental_health.csv dataset consists of 100,000 rows and 6 columns, capturing insights into how digital habits relate to mental health outcomes. 
 Each record represents an individual’s reported data on screen time, social media usage, and mental well-being indicators.
 
